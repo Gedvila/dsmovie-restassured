@@ -41,7 +41,7 @@ public class MovieControllerRA {
 
         postMovieInstance = new HashMap<>();
         postMovieInstance.put("title","Como Treinar Seu Dragão");
-        postMovieInstance.put("score",10.0);
+        postMovieInstance.put("score",5.0);
         postMovieInstance.put("count", 3);
         postMovieInstance.put("image","https://image.tmdb.org/t/p/original/yfj27wcg80MjSn7Il6iGQ2wkTth.jpg");
     }
